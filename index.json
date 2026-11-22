@@ -1,0 +1,11 @@
+{
+  "org": "khorolets",
+  "repo": "near-ledger-rs",
+  "versions": [
+    {
+      "commit": "2dc9ba9ef211a4ecc798f4fe089adf2065b37ee2",
+      "tag": "v0.9.3",
+      "parsed_at": "2026-11-22T10:33:26.978753+00:00"
+    }
+  ]
+}
